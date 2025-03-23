@@ -1,0 +1,15 @@
+title: Gonzalo Andrés Burgos
+description: CV profesional de Gonzalo A. Burgos - Ingeniería Física y Astronomía
+url: "https://ismaryro.github.io"
+baseurl: "/gonzalob-cv"
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-minifier
+
+exclude:
+  - docker-compose.yml
